@@ -1,0 +1,12 @@
+import { Button } from "@/components/ui/button";
+
+const ButtonsPage = () => {
+  return (
+    <div className="p-4 space-y-4 fñex flex-col max-w-[200px]">
+      <Button>Primary</Button>
+      <Button>Secondary</Button>
+    </div>
+  );
+};
+
+export default ButtonsPage;
