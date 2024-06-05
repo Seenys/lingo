@@ -41,7 +41,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "message is working",
+      "pre-commit": "echo 'message is working'",
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
   }
