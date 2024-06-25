@@ -6,7 +6,7 @@ import { StickyWrapper } from '@/components/sticky-wrapper';
 import FeedWrapper from '@/components/feed-wrapper';
 import { UserProgress } from '@/components/user-progress';
 import Header from './header';
-// queries
+// queries 2
 import { getUserProgress } from '@/db/queries';
 
 const LearnPage = async () => {
